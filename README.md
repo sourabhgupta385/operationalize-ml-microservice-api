@@ -44,6 +44,6 @@ source <your_venv>/bin/activate
 
 * `output_txt_files/docker_out.txt` contains logs returned after running the app with Docker
 * `output_txt_files/kubernetes_out.txt` containes logs and the prediction returned after running the app with Kubernetes(`run_kubernetes.sh`)
-* `run_docker.sh` contains the steps to get Docker running the app locally:
-* `run_kubernetes.sh` contains the steps to get Kubernetes running the app locally:
-* `upload_docker.sh` contains the steps to upload the image to the Docker repository:
+* `run_docker.sh` contains the steps to get Docker running the app locally
+* `run_kubernetes.sh` contains the steps to get Kubernetes running the app locally
+* `upload_docker.sh` contains the steps to upload the image to the Docker repository
